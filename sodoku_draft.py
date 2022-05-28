@@ -1,4 +1,13 @@
-
+# 1. Name:
+#      -Tyler Elms-
+# 2. Assignment Name:
+#      Lab 06 : Sudoku Program
+# 3. Assignment Description:
+#      -Its meant to treat the sodoku board as an appendable list of lists-
+# 4. What was the hardest part? Be as specific as possible.
+#      -The hardest part was correctly appending the lists with the user choice-
+# 5. How long did it take for you to complete the assignment?
+#      -6-
 
 
 
